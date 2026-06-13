@@ -8,8 +8,8 @@ const CONFIG = {
     // Date of Birth (used for typing text and age increase condition)
     dob: {
         year: 2002,      // Birth year (e.g. 2002)
-        month: 5,       // Birth month (1-12) -> 11 is November
-        day: 6         // Birth day (1-31)
+        month: 6,       // Birth month (1-12) -> 11 is November
+        day: 12         // Birth day (1-31)
     },
 
     // The year of the birthday celebration (defaults to the current system year)
