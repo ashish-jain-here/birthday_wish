@@ -1,6 +1,6 @@
 const CONFIG = {
     // The name of the birthday person
-    name: "Shruthi",
+    name: "Astha",
 
     // Gender of the person: "Boy" or "Girl" (affects "Boy u = new Boy(...)" text)
     gender: "Girl",
@@ -9,7 +9,7 @@ const CONFIG = {
     dob: {
         year: 2002,      // Birth year (e.g. 2002)
         month: 6,       // Birth month (1-12) -> 11 is November
-        day: 12         // Birth day (1-31)
+        day: 16         // Birth day (1-31)
     },
 
     // The year of the birthday celebration (defaults to the current system year)
