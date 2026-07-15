@@ -3,7 +3,7 @@ const CONFIG = {
     name: "Suraj",
 
     // Gender of the person: "Boy" or "Girl" (affects "Boy u = new Boy(...)" text)
-    gender: "Girl",
+    gender: "Boy",
 
     // Date of Birth (used for typing text and age increase condition)
     dob: {
